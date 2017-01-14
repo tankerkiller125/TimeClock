@@ -12,7 +12,7 @@ return [
     | any other location as required by the application or its packages.
     */
 
-    'name' => 'Laravel',
+    'name' => 'TimeClock',
 
     /*
     |--------------------------------------------------------------------------
@@ -120,7 +120,7 @@ return [
     |
     */
 
-    'log' => env('APP_LOG', 'single'),
+    'log' => env('APP_LOG', 'daily'),
 
     'log_level' => env('APP_LOG_LEVEL', 'debug'),
 
@@ -167,16 +167,16 @@ return [
          * Package Service Providers...
          */
 
-        //
+        Barryvdh\Debugbar\ServiceProvider::class,
 
         /*
          * Application Service Providers...
          */
-        App\Providers\AppServiceProvider::class,
-        App\Providers\AuthServiceProvider::class,
-        // App\Providers\BroadcastServiceProvider::class,
-        App\Providers\EventServiceProvider::class,
-        App\Providers\RouteServiceProvider::class,
+        TimeClock\Providers\AppServiceProvider::class,
+        TimeClock\Providers\AuthServiceProvider::class,
+        // TimeClock\Providers\BroadcastServiceProvider::class,
+        TimeClock\Providers\EventServiceProvider::class,
+        TimeClock\Providers\RouteServiceProvider::class,
 
     ],
 
@@ -226,6 +226,10 @@ return [
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
 
+        /*
+         * Package Service Facades...
+         */
+        'Debugbar' => Barryvdh\Debugbar\Facade::class,
     ],
 
 ];

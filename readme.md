@@ -11,7 +11,7 @@ Featured include:
 
 ## Security Vulnerabilities
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Matthew Rhodes at matthew@rhodes.ml All security vulnerabilities will be promptly addressed.
+If you discover a security vulnerability within TimeClock, please send an e-mail to Matthew Rhodes at matthew@rhodes.ml All security vulnerabilities will be promptly addressed.
 
 ## License
 

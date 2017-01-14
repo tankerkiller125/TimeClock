@@ -1,9 +1,9 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace TimeClock\Http\Controllers\Auth;
 
-use App\Http\Controllers\Controller;
 use Illuminate\Foundation\Auth\ResetsPasswords;
+use TimeClock\Http\Controllers\Controller;
 
 class ResetPasswordController extends Controller
 {

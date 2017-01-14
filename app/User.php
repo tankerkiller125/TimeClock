@@ -1,6 +1,6 @@
 <?php
 
-namespace App;
+namespace TimeClock;
 
 use Illuminate\Foundation\Auth\User as Authenticatable;
 use Illuminate\Notifications\Notifiable;

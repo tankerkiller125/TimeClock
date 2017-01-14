@@ -1,11 +1,11 @@
 <?php
 
-namespace App\Http\Controllers\Auth;
+namespace TimeClock\Http\Controllers\Auth;
 
-use App\Http\Controllers\Controller;
-use App\User;
 use Illuminate\Foundation\Auth\RegistersUsers;
 use Illuminate\Support\Facades\Validator;
+use TimeClock\Http\Controllers\Controller;
+use TimeClock\User;
 
 class RegisterController extends Controller
 {
