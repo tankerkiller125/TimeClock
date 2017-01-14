@@ -19,4 +19,4 @@ TimeClock is open-sourced software licensed under the [MIT license](http://opens
 
 ## Support
 
-Although TimeClock is extremely easy to use and setup to-do its use of the Laravel framework support is available to businesses wanting it. Please contact me at matthew@rhodes.ml for a quote on pricing for support. I can install and support TimeClock in almost any use case, however, depending on the environment available to use I may not be able to perform a reliable install. I am also willing to host TimeClock for a monthly fee dependent on the size and reliability required for you use case.
+Although TimeClock is extremely easy to use and setup do to its use of the Laravel framework. Support is available to businesses wanting it though. Please contact me at matthew@rhodes.ml for a quote on pricing for support. I can install and support TimeClock in almost any use case, however, depending on the environment available to use I may not be able to perform a reliable install. I am also willing to host TimeClock for a monthly fee dependent on the size and reliability required for you use case.
