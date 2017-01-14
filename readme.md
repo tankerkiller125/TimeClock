@@ -4,7 +4,7 @@
 
 TimeClock is an open source application designed for small business and enterprises alike.
 
-Featured include:
+Features include:
 * Easy hourly employee management
 * Easy vacation time management
 * And much more!
@@ -15,4 +15,8 @@ If you discover a security vulnerability within TimeClock, please send an e-mail
 
 ## License
 
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+TimeClock is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+## Support
+
+Although TimeClock is extremely easy to use and setup to-do its use of the Laravel framework support is available to businesses wanting it. Please contact me at matthew@rhodes.ml for a quote on pricing for support. I can install and support TimeClock in almost any use case, however, depending on the environment available to use I may not be able to perform a reliable install. I am also willing to host TimeClock for a monthly fee dependent on the size and reliability required for you use case.
