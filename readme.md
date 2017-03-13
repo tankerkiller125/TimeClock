@@ -2,6 +2,8 @@
 
 ## About TimeClock
 
+[![Beerpay](https://img.shields.io/beerpay/tankerkiller125/TimeClock.svg?style=flat-square)](https://beerpay.io/tankerkiller125/TimeClock)
+
 TimeClock is an open source application designed for small business and enterprises alike.
 
 Features include:
